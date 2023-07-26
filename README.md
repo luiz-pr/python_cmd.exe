@@ -5,7 +5,7 @@
 <br><br><br><br><br>
 
 # Olá! Eu sou o Luiz Henrique
-## Tenho 14 anos de idade
+## Tenho 16 anos de idade
 ## Sou Desenvolvedor Web Júnior
 ## Com uma boa experiência em HTML5, CSS3, JAVASCRIPT, PYTHON, GIT e GITHUB
 ## Estou aprendendo JAVA, MYSQL, PHP e C#
